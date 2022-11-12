@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **atikahe/atikahe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+</div>
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### 🌱 Live projects
+- Wordl Discord Bot 🔗 [Invite](https://dsc.gg/wordl)
+- AI Generated Avatars 🔗 [View](https://atk-ai-gallery.vercel.app)
+- Portfolio 🔗 [Visit](https://atikah.vercel.app)
+
+### 📈 My stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atikahe&theme=onedark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahe&layout=compact&theme=onedark)
+<!--
+(https://github.com/anuraghazra/github-readme-stats) 
 -->
