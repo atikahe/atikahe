@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 </h1>
 
 ### 🌱 Live projects
+- `auto-test` by AI 🔗 [Install]()
 - Wordl Discord Bot 🔗 [Invite](https://dsc.gg/wordl)
-- AI Generated Avatars 🔗 [View](https://atk-ai-gallery.vercel.app)
 - Portfolio 🔗 [Visit](https://atikah.vercel.app)
 
 ### 📈 My stats
