@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h1>
 
 ### 🌱 Live projects
-- `auto-test` by AI 🔗 [Install]()
+- Auto-generate test files with AI 🔗 [Install](https://github.com/atikahe/auto-test)
 - Wordl Discord Bot 🔗 [Invite](https://dsc.gg/wordl)
 - Portfolio 🔗 [Visit](https://atikah.vercel.app)
 
