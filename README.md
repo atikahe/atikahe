@@ -29,7 +29,3 @@ Here are some ideas to get you started:
 
 ### 📈 My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atikahe&theme=onedark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikahe&layout=compact&theme=onedark)
-<!--
-(https://github.com/anuraghazra/github-readme-stats) 
--->
